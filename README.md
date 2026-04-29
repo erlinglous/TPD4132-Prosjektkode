@@ -1,5 +1,6 @@
 # TPD4132-Prosjektkode
 Her er arduinokoden og koblingsskjemaet til gruppe 2 i TPD4132 fra idé til prototype. 
+gruppen består av Erling Lous, Harald Skare Myklebust, Helene Ragner Haugland, Marthe Ramstad Hoff og Nora Dahl
 Prosjektet vårt går ut på å lære barn om hvordan lynnedslag fungerer, med en analogi til Tor med hammeren.
 Vi har laget en statisk elektrisitetsensor, som plukker opp gnissing fra ballong, dette utløser et fiktivt lynnedslag, som gjør det mulig å løfte Mjølner, Tors Hammer
 
